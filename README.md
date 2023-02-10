@@ -1,2 +1,2 @@
 # Space-Mission
-Space  Mission is a space game developed using Netlogo. A  real world simulation using Netlogo.
+Space  Mission is a space shooting game developed using Netlogo. It's a real world simulation using Netlogo.
